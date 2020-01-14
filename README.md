@@ -31,15 +31,15 @@ Tidak, saya tidak mengizinkan kamu menjualnya. Tetapi jika kamu benar-benar tela
 12. Print laporan Pemesanan Barang
 
 ### Info login
+Untuk hak akses Admin :
+
+**No**|**Username**|**Password**
+:----:|:----:|:-----:
+1|reza|reza
+
 Untuk hak akses User :
 
 **No**|**Username**|**Password**
 :----:|:----:|:-----:
 1|dian|dian
 2|dea|dea
-
-Untuk hak akses Admin :
-
-**No**|**Username**|**Password**
-:----:|:----:|:-----:
-1|reza|reza
