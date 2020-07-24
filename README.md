@@ -2,11 +2,6 @@
 # Flower Shop
 E-commerce dengan system COD(Cast On Delivery) dan dengan studi kasus Toko Bunga atau Flower Shop
 
-### Apakah ini gratis?
-Program ini gratis, gratis digunakan untuk belajar kamu juga bebas mengembangkannya, tetapi jangan lupa meletakkan sumber.
-### Apakah saya dapat menjualnya?
-Tidak, saya tidak mengizinkan kamu menjualnya. Tetapi jika kamu benar-benar telah mengembangkannya dan sangat berbeda dengan yang sekarang, saya izinkan untuk menjualnya dan jangan lupa meletakkan sumber.
-
 ### Teknologi apa saja yang digunakan?
 1. HTML5
 2. CSS3
